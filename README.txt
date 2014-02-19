@@ -11,7 +11,7 @@ used for teaching, demonstration, or just to play an old mainframe game.
 
 .. |date| date:: %Y-%m-%d %H:%M:%S %Z
 .. footer::
-    | Copyright © 2009 Lance Finn Helsten
-    | Licensed under GNU General Public License version 3.
+    | Copyright © 2014 Lance Finn Helsten
+    | Licensed under BSD 2 Clause License.
     | Document generated: |date|.
 
