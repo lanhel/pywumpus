@@ -1,0 +1,57 @@
+# OS
+.DS_Store
+
+# C
+*.so
+
+# CocoaPods
+Pods/
+
+
+###
+### Python
+###
+
+# Python Virtual Environment
+.venv
+venv
+VENV
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+
+# Python Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+.eggs
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Python Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# Python Translations
+*.mo
+*.pot
+
